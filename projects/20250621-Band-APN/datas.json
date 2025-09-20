@@ -1,0 +1,254 @@
+{
+  "apnData": [
+    {
+      "operator": "电信",
+      "type": "IPv4/IPv6",
+      "name": "CTNET",
+      "apn": "ctnet",
+      "way": "PAP或CHAP",
+      "uname": "ctnet@mycdma.cn",
+      "password": "vnet.mobi",
+      "notes": "手机配置"
+    },
+    {
+      "operator": "电信",
+      "type": "IPv4",
+      "name": "CTLTE",
+      "apn": "ctlte",
+      "way": "PAP",
+      "uname": "",
+      "password": "",
+      "notes": "随身WIFI"
+    },
+    {
+      "operator": "移动",
+      "type": "IPv4/IPv6",
+      "name": "CMNET",
+      "apn": "cmnet",
+      "way": "PAP或CHAP",
+      "uname": "",
+      "password": "",
+      "notes": "手机配置"
+    },
+    {
+      "operator": "移动",
+      "type": "IPv4",
+      "name": "CMCC",
+      "apn": "cmnet",
+      "way": "PAP",
+      "uname": "",
+      "password": "",
+      "notes": "随身WIFI"
+    },
+    {
+      "operator": "广电",
+      "type": "IPv4/IPv6",
+      "name": "CBNET",
+      "apn": "cbnet",
+      "way": "NONE",
+      "uname": "",
+      "password": "",
+      "notes": "随身WIFI"
+    },
+    {
+      "operator": "联通",
+      "type": "IPv4/IPv6",
+      "name": "CUCC",
+      "apn": "3gnet",
+      "way": "PAP",
+      "uname": "",
+      "password": "",
+      "notes": "随身WIFI"
+    }
+  ],
+  "cbnData": [
+    {
+      "band": "B28",
+      "operator": "广电",
+      "bandwidth": "30MHz",
+      "network": "4G/5G",
+      "range": "758MHz-788MHz"
+    },
+    {
+      "band": "N28",
+      "operator": "广电",
+      "bandwidth": "",
+      "network": "5G",
+      "range": "700MHz"
+    },
+    {
+      "band": "B41/N41",
+      "operator": "广电",
+      "bandwidth": "160MHz",
+      "network": "4G/5G",
+      "range": "2515MHz-2675MHz"
+    },
+    {
+      "band": "N77",
+      "operator": "广电",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "3300MHz-3400MHz"
+    },
+    {
+      "band": "N79",
+      "operator": "广电",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "4900MHz-5000MHz"
+    }
+  ],
+  "cmccData": [
+    {
+      "band": "B3",
+      "operator": "移动",
+      "bandwidth": "25MHz",
+      "network": "4G",
+      "range": "1805MHz-1830MHz"
+    },
+    {
+      "band": "B8",
+      "operator": "移动",
+      "bandwidth": "15MHz",
+      "network": "4G",
+      "range": "934MHz-949MHz"
+    },
+    {
+      "band": "B34",
+      "operator": "移动",
+      "bandwidth": "15MHz",
+      "network": "4G",
+      "range": "2010MHz-2025MHz"
+    },
+    {
+      "band": "B39",
+      "operator": "移动",
+      "bandwidth": "30MHz",
+      "network": "4G",
+      "range": "1885MHz-1915MHz"
+    },
+    {
+      "band": "B40",
+      "operator": "移动",
+      "bandwidth": "50MHz",
+      "network": "4G",
+      "range": "2320MHz-2370MHz"
+    },
+    {
+      "band": "N28",
+      "operator": "移动",
+      "bandwidth": "",
+      "network": "5G",
+      "range": "700MHz"
+    },
+    {
+      "band": "B41/N41",
+      "operator": "移动",
+      "bandwidth": "160MHz",
+      "network": "4G/5G",
+      "range": "2515MHz-2675MHz"
+    },
+    {
+      "band": "N79",
+      "operator": "移动",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "4800MHz-4900MHz"
+    }
+  ],
+  "ctcData": [
+    {
+      "band": "B1",
+      "operator": "电信",
+      "bandwidth": "20MHz",
+      "network": "4G",
+      "range": "2110MHz-2130MHz"
+    },
+    {
+      "band": "B3",
+      "operator": "电信",
+      "bandwidth": "20MHz",
+      "network": "4G",
+      "range": "1860MHz-1880MHz"
+    },
+    {
+      "band": "B5",
+      "operator": "电信",
+      "bandwidth": "11MHz",
+      "network": "4G",
+      "range": "869MHz-880MHz"
+    },
+    {
+      "band": "N1",
+      "operator": "电信",
+      "bandwidth": "45MHz",
+      "network": "5G",
+      "range": "2110MHz-2170MHz"
+    },
+    {
+      "band": "N77",
+      "operator": "电信",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "3300MHz-3400MHz"
+    },
+    {
+      "band": "N78",
+      "operator": "电信",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "3400MHz-3500MHz"
+    }
+  ],
+  "cuccData": [
+    {
+      "band": "B1",
+      "operator": "联通",
+      "bandwidth": "25MHz",
+      "network": "4G",
+      "range": "2130MHz-2155MHz"
+    },
+    {
+      "band": "B3",
+      "operator": "联通",
+      "bandwidth": "30MHz",
+      "network": "4G",
+      "range": "1830MHz-1860MHz"
+    },
+    {
+      "band": "B8",
+      "operator": "联通",
+      "bandwidth": "11MHz",
+      "network": "4G",
+      "range": "949MHz-960MHz"
+    },
+    {
+      "band": "B40",
+      "operator": "联通",
+      "bandwidth": "20MHz",
+      "network": "5G",
+      "range": "2300MHz-2320MHz"
+    },
+    {
+      "band": "N1",
+      "operator": "联通",
+      "bandwidth": "45MHz",
+      "network": "5G",
+      "range": "2110MHz-2170MHz"
+    },
+    {
+      "band": "N77",
+      "operator": "联通",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "3300MHz-3400MHz"
+    },
+    {
+      "band": "N78",
+      "operator": "联通",
+      "bandwidth": "100MHz",
+      "network": "5G",
+      "range": "3500MHz-3600MHz"
+    }
+  ]
+}

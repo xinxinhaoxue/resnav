@@ -1,0 +1,215 @@
+{
+  "my": [
+    {
+      "title": "大流量电话卡",
+      "link": "https://h5.lot-ml.com/ProductEn/Index/fb02abfb7e548d95",
+      "logo": "logo/xxhx.webp",
+      "type": "我的"
+    },
+    {
+      "title": "任务清单",
+      "link": "projects/20250907-Todo-List/index.html",
+      "logo": "logo/xxhx.webp",
+      "desc": "20250907",
+      "type": "我的"
+    },
+    {
+      "title": "贪吃蛇",
+      "link": "projects/20250622-Greedy-Snake/index.html",
+      "logo": "logo/xxhx.webp",
+      "desc": "20250622",
+      "type": "我的"
+    },
+    {
+      "title": "四大运营商频段和APN",
+      "link": "projects/20250621-Band-APN/index.html",
+      "logo": "logo/xxhx.webp",
+      "desc": "20250621",
+      "type": "我的"
+    },
+    {
+      "title": "随机密码生成器",
+      "link": "projects/20250615-Random-String/index.html",
+      "logo": "logo/xxhx.webp",
+      "desc": "20250609",
+      "type": "我的"
+    }
+  ],
+  "bilibili": [
+    {
+      "title": "OpenWRT的USB网络共享",
+      "link": "https://share.feijipan.com/s/hjGU9ILc",
+      "logo": "logo/feijipan.ico",
+      "desc": "20250304",
+      "type": "B站视频资源"
+    },
+    {
+      "title": "用手机给U盘制作PE启动盘",
+      "link": "https://share.feijipan.com/s/jDGUbWrV",
+      "logo": "logo/feijipan.ico",
+      "desc": "20240715",
+      "type": "B站视频资源"
+    },
+    {
+      "title": "红米note8pro谷歌相机",
+      "link": "https://www.123865.com/s/g3pbVv-vhKyh",
+      "logo": "logo/123pan.ico",
+      "desc": "20230220",
+      "type": "B站视频资源"
+    },
+    {
+      "title": "红米4高配版全部刷机资源",
+      "link": "https://www.123865.com/s/g3pbVv-ThKyh",
+      "logo": "logo/123pan.ico",
+      "desc": "20221120",
+      "type": "B站视频资源"
+    }
+  ],
+  "flash": [
+    {
+      "title": "LineageOS",
+      "link": "https://lineageos.org",
+      "logo": "logo/LineageOS.webp",
+      "type": "刷机"
+    },
+    {
+      "title": "crDroid",
+      "link": "https://crdroid.net",
+      "logo": "logo/crdroid.ico",
+      "type": "刷机"
+    },
+    {
+      "title": "PixelExperience",
+      "link": "https://get.pixelexperience.org",
+      "logo": "logo/PixelExperience.png",
+      "type": "刷机"
+    },
+    {
+      "title": "XiaoMiROM",
+      "link": "https://xiaomirom.com",
+      "type": "刷机"
+    },
+    {
+      "title": "MIUIVER",
+      "link": "https://miuiver.com",
+      "logo": "logo/miuiver.png",
+      "type": "刷机"
+    },
+    {
+      "title": "MIUIER",
+      "link": "https://roms.miuier.com",
+      "logo": "logo/miuier.ico",
+      "type": "刷机"
+    },
+    {
+      "title": "萤火虫资源站",
+      "link": "https://yhcres.top",
+      "logo": "logo/yhcres.ico",
+      "type": "刷机"
+    },
+    {
+      "title": "OpenGAPPS",
+      "link": "https://opengapps.org",
+      "logo": "logo/opengapps.png",
+      "type": "刷机"
+    }
+  ],
+  "reset": [
+    {
+      "title": "Windows镜像-微软",
+      "link": "https://www.microsoft.com/zh-cn/software-download",
+      "logo": "logo/microsoft.ico",
+      "type": "重装系统"
+    },
+    {
+      "title": "Rufus刻盘工具",
+      "link": "http://rufus.ie",
+      "logo": "logo/rufus.png",
+      "type": "重装系统"
+    },
+    {
+      "title": "微PE工具箱",
+      "link": "https://www.wepe.com.cn",
+      "logo": "logo/wepe.ico",
+      "type": "重装系统"
+    },
+    {
+      "title": "Ventoy",
+      "link": "https://www.ventoy.net",
+      "logo": "logo/ventoy.ico",
+      "type": "重装系统"
+    },
+    {
+      "title": "FirPE",
+      "link": "https://firpe.cn",
+      "logo": "logo/firpe.png",
+      "type": "重装系统"
+    },
+    {
+      "title": "I tell you[镜像站]",
+      "link": "https://next.itellyou.cn",
+      "logo": "logo/itellyou.ico",
+      "type": "重装系统"
+    }
+  ],
+  "tool": [
+    {
+      "title": "A Real Me",
+      "link": "https://www.arealme.com/cn",
+      "logo": "logo/arealme.ico",
+      "desc": "一个有趣的自我测试网站",
+      "type": "工具"
+    },
+    {
+      "title": "在线工具网",
+      "link": "https://www.htool.com/",
+      "logo": "logo/htool.ico",
+      "type": "工具"
+    },
+    {
+      "title": "docsmall",
+      "link": "https://docsmall.com/",
+      "logo": "logo/docsmall.png",
+      "desc": "免费的在线图片与 PDF 处理工具",
+      "type": "工具"
+    },
+    {
+      "title": "机佬导航",
+      "link": "https://www.jldzz.cn/",
+      "logo": "logo/jldzz.png",
+      "type": "工具"
+    },
+    {
+      "title": "短网址生成",
+      "link": "https://uu.uucc.cc/",
+      "logo": "logo/uucc.png",
+      "type": "工具"
+    }
+  ],
+  "other": [
+    {
+      "title": "诺言博客",
+      "link": "https://www.nuoyo.cn",
+      "logo": "logo/nuoyo.png",
+      "type": "工具"
+    },
+    {
+      "title": "免费资源网",
+      "link": "https://www.freeaday.com",
+      "logo": "logo/freeaday.ico",
+      "type": "其他"
+    },
+    {
+      "title": "国家大学生就业服务平台",
+      "link": "https://www.ncss.cn",
+      "logo": "logo/ncss.png",
+      "type": "其他"
+    },
+    {
+      "title": "天地图API",
+      "link": "http://lbs.tianditu.gov.cn",
+      "logo": "logo/tianditu.ico",
+      "type": "其他"
+    }
+  ]
+}

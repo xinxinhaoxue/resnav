@@ -1,0 +1,44 @@
+[
+  {
+    "title": "小笨蛋记录",
+    "link": "https://200655.xyz/",
+    "author": "酷安@两年半爱好者",
+    "logo": "logo/200655.png",
+    "desc": "有钱终成眷属，没钱亲眼目睹"
+  },
+  {
+    "title": "UWillno的博客",
+    "link": "https://uwillno.com/",
+    "author": "酷安@PortingtoQt6",
+    "logo": "logo/uwillno.png",
+    "desc": "Qt for WebAssembly"
+  },
+  {
+    "title": "io云连接导航",
+    "link": "https://iokb.cn/",
+    "author": "酷安@LCSSDWL",
+    "logo": "logo/iokb.ico",
+    "desc": "我们不是资源生产者，我们只是资源的搬运工。"
+  },
+  {
+    "title": "SDWL的博客",
+    "link": "https://blog.iokb.cn/",
+    "author": "酷安@LCSSDWL",
+    "logo": "logo/iokb.ico",
+    "desc": "我们不是资源生产者，我们只是资源的搬运工。"
+  },
+  {
+    "title": "口袋分享记",
+    "link": "https://111620.xyz/",
+    "author": "酷安@来口酸奶",
+    "logo": "logo/111620.png",
+    "desc": "所谓过往，皆为序章。虚室生白️"
+  },
+  {
+    "title": "白茶日记",
+    "link": "https://blog.iletter.top/",
+    "author": "酷安@心圣",
+    "logo": "logo/ittoolman.png",
+    "desc": "没有什么可以留住，除了死亡。"
+  }
+]

@@ -1,0 +1,33 @@
+(function(){const n=document.createElement("link").relList;if(n&&n.supports&&n.supports("modulepreload"))return;for(const t of document.querySelectorAll('link[rel="modulepreload"]'))c(t);new MutationObserver(t=>{for(const r of t)if(r.type==="childList")for(const a of r.addedNodes)a.tagName==="LINK"&&a.rel==="modulepreload"&&c(a)}).observe(document,{childList:!0,subtree:!0});function e(t){const r={};return t.integrity&&(r.integrity=t.integrity),t.referrerPolicy&&(r.referrerPolicy=t.referrerPolicy),t.crossOrigin==="use-credentials"?r.credentials="include":t.crossOrigin==="anonymous"?r.credentials="omit":r.credentials="same-origin",r}function c(t){if(t.ep)return;t.ep=!0;const r=e(t);fetch(t.href,r)}})();fetch("datas.json").then(o=>o.json()).then(o=>{const{cmccData:n,ctcData:e,cuccData:c,cbnData:t,apnData:r}=o;d("cmcc",n),d("ctc",e),d("cucc",c),d("cbn",t),s(r)});function d(o,n){const e=document.getElementById(`${o}`);let c="";switch(o){case"cmcc":c="中国移动";break;case"ctc":c="中国电信";break;case"cucc":c="中国联通";break;case"cbn":c="中国广电";break}e.innerHTML=`<caption>${c}</caption>
+                    <tr>
+                      <th>频段</th>
+                      <th>拥有运营商</th>
+                      <th>带宽</th>
+                      <th>网络制式</th>
+                      <th>备注</th>
+                    </tr>`,e.innerHTML+=n.map(t=>`<tr>
+              <td>${t.band}</td>
+              <td>${t.operator}</td>
+              <td>${t.bandwidth}</td>
+              <td>${t.network}</td>
+              <td>${t.range}</td>
+            </tr>`).join("")}function s(o){const n=document.getElementById("apn");n.innerHTML=`<caption>四大运营商APN配置信息</caption>
+                        <tr>
+                          <th>运营商</th>
+                          <th>PDP类型</th>
+                          <th>配置文件名称</th>
+                          <th>APN</th>
+                          <th>鉴权方式</th>
+                          <th>用户名</th>
+                          <th>密码</th>
+                          <th>备注</th>
+                        </tr>`,n.innerHTML+=o.map(e=>`<tr>
+              <td>${e.operator}</td>
+              <td>${e.type}</td>
+              <td>${e.name}</td>
+              <td>${e.apn}</td>
+              <td>${e.way}</td>
+              <td>${e.uname}</td>
+              <td>${e.password}</td>
+              <td>${e.notes}</td>
+            </tr>`).join("")}
