@@ -1,40 +1,4 @@
 {
-  "my": [
-    {
-      "title": "大流量电话卡",
-      "link": "https://h5.lot-ml.com/ProductEn/Index/fb02abfb7e548d95",
-      "logo": "logo/xxhx.webp",
-      "type": "我的"
-    },
-    {
-      "title": "任务清单",
-      "link": "projects/20250907-Todo-List/index.html",
-      "logo": "logo/xxhx.webp",
-      "desc": "20250907",
-      "type": "我的"
-    },
-    {
-      "title": "贪吃蛇",
-      "link": "projects/20250622-Greedy-Snake/index.html",
-      "logo": "logo/xxhx.webp",
-      "desc": "20250622",
-      "type": "我的"
-    },
-    {
-      "title": "四大运营商频段和APN",
-      "link": "projects/20250621-Band-APN/index.html",
-      "logo": "logo/xxhx.webp",
-      "desc": "20250621",
-      "type": "我的"
-    },
-    {
-      "title": "随机密码生成器",
-      "link": "projects/20250615-Random-String/index.html",
-      "logo": "logo/xxhx.webp",
-      "desc": "20250609",
-      "type": "我的"
-    }
-  ],
   "bilibili": [
     {
       "title": "OpenWRT的USB网络共享",
